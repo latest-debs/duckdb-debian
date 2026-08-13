@@ -2,6 +2,7 @@
 
 package_name: duckdb
 github_repo: duckdb/duckdb
+license: MIT
 artifact_format: zip
 description: "DuckDB is an analytical in-process SQL database management system"
 
